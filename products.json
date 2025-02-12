@@ -1,0 +1,119 @@
+{
+    "items":[
+        {
+            "sys":{"id" :"1"},
+            "field":{
+                "image":"cloth1.png",
+                 "name": "Ralph Lauren",
+                 "price": 23.87
+            }
+        },
+        {
+            "sys":{"id" :"2"},
+            "field":{
+                "image":"cloth2.jpg",
+                 "name": "Adidas T-shirt",
+                 "price": 33.52
+            }
+        },
+        {
+            "sys":{"id" :"3"},
+            "field":{
+                "image":"cloth3.jpg",
+                 "name": "Levis hoodie",
+                 "price": 23.43
+            }
+        },
+        {
+            "sys":{"id" :"4"},
+            "field":{
+                "image":"cloth4.jpg",
+                 "name": "Nike Jacket",
+                 "price": 44.9
+            }
+        },
+        {
+            "sys":{"id" :"5"},
+            "field":{
+                "image":"cloth5.jpg",
+                 "name": "Chanel Coat",
+                 "price": 50.78
+            }
+        },
+        {
+            "sys":{"id" :"6"},
+            "field":{
+                "image":"cloth6.jpg",
+                 "name": "Versace Scout",
+                 "price": 43.92
+            }
+        },
+        {
+            "sys":{"id" :"7"},
+            "field":{
+                "image":"cloth7.jpg",
+                 "name": "Reebok Scout",
+                 "price": 34.92
+            }
+        },
+        {
+            "sys":{"id" :"8"},
+            "field":{
+                "image":"cloth8.jpg",
+                 "name": "Tommy Hilfiger",
+                 "price": 34.92
+            }
+        },
+        {
+            "sys":{"id" :"9"},
+            "field":{
+                "image":"cloth9.jpg",
+                 "name": "Electrician Boss",
+                 "price": 367.54
+            }
+        },
+        {
+            "sys":{"id" :"10"},
+            "field":{
+                "image":"cloth10.jpg",
+                 "name": "TPrada Swea",
+                 "price": 34.67
+            }
+        },
+        {
+            "sys":{"id" :"11"},
+            "field":{
+                "image":"cloth11.jpg",
+                 "name": "Reebok Suit",
+                 "price": 33.92
+            }
+        },
+        {
+            "sys":{"id" :"12"},
+            "field":{
+                "image":"cloth12.jpg",
+                 "name": "Calvin Klein",
+                 "price": 54.22
+            }
+        },
+        {
+            "sys":{"id" :"13"},
+            "field":{
+                "image":"cloth10.jpg",
+                 "name": "Armani Dress",
+                 "price": 34.91
+            }
+        },
+        {
+            "sys":{"id" :"14"},
+            "field":{
+                "image":"cloth14.jpg",
+                 "name": "Shirt  Hilfiger",
+                 "price": 44.91
+            }
+        }
+        
+    ]
+   
+        
+    }
